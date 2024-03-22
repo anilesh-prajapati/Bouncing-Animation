@@ -1,5 +1,5 @@
 # Bouncing-Animation
-Check out the mesmerizing bounce animation [here]([link_to_animation](https://anilesh-prajapati.github.io/Bouncing-Animation/)).
+Check out the mesmerizing bounce animation [here](https://anilesh-prajapati.github.io/Bouncing-Animation/).
 
 Feel free to explore the code and try it out yourself!
 
